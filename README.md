@@ -24,7 +24,7 @@ Using non-linear models to perform classification and regression tasks.
 Data source:
 
 -   Yellowbrick [concrete](https://www.scikit-yb.org/en/latest/api/datasets/concrete.html)
--   UCI Machine Learning Repository [wine](https://archive.ics.uci.edu/dataset/109/wine)
+-   Aeberhard,Stefan and Forina,M.. (1991). Wine. UCI Machine Learning Repository. https://doi.org/10.24432/C5PC7J.
 
 ## [Pipelines](https://github.com/jennbushey/ML-projects/blob/main/Pipelines.ipynb)
 
@@ -35,3 +35,13 @@ Learning how to complete appropriate preprocessing, test different supervised le
 Data source:
 
 -   Kaggle [Tree Survival Prediction](https://www.kaggle.com/datasets/yekenot/tree-survival-prediction)
+
+## [Principle Component Analysis and Clustering](https://github.com/jennbushey/ML-projects/blob/main/PCA%20and%20Clustering.ipynb)
+
+Learning how to use PCA and clustering techniques for supervised and unsupervised learning.
+
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+
+Data source:
+
+-   Wheat kernels. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5NG8N.
