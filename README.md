@@ -36,7 +36,7 @@ Data source:
 
 -   Kaggle [Tree Survival Prediction](https://www.kaggle.com/datasets/yekenot/tree-survival-prediction)
 
-## [Principle Component Analysis and Clustering](https://github.com/jennbushey/ML-projects/blob/main/PCA%20and%20Clustering.ipynb)
+## [Principal Component Analysis and Clustering](https://github.com/jennbushey/ML-projects/blob/main/PCA%20and%20Clustering.ipynb)
 
 Learning how to use PCA and clustering techniques for supervised and unsupervised learning.
 
