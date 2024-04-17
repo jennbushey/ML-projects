@@ -4,7 +4,7 @@
 
 Machine learning projects and challenges to practice skills.
 
-## [Brain Tumor Classification using Deep Learning](https://github.com/jennbushey/ML-projects/blob/main/Tumour%20Classification)
+## [Brain Tumor Classification using Deep Learning](https://github.com/jennbushey/ML-projects/tree/main/Tumor%20Classification)
 
 This repository contains the final project for ENEL 645 Winter 2024 at the University of Calgary. The project focuses on classifying brain tumors using deep learning techniques. The dataset used is the [Kaggle Brain tumors 256x256](https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256), which includes images labeled with four classes.
 
