@@ -1,0 +1,16 @@
+#! /bin/bash
+# ====================================
+#SBATCH --job-name=VGG
+#SBATCH --error=VGG%j.err
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=32GB
+#SBATCH --time=0-08:00:00
+#SBATCH --gres=gpu:1
+#SBATCH --partition=gpu
+# ====================================
+source ~/software/init-conda
+conda activate tf
+
+jupyter nbconvert --execute --to notebook --inplace vgg.ipynb

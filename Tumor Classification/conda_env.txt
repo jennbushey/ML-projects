@@ -1,0 +1,11 @@
+# CONDA ENVIRONMENT
+
+conda create --name tf
+conda activate tf
+conda install python tensorflow-gpu cudatoolkit cudnn
+conda install numpy=1.19.5
+conda install pandas=1.3.4
+conda install matplotlib
+conda install opencv
+conda install jupyter 
+conda install scikit-learn
